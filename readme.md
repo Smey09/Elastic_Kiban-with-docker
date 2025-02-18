@@ -65,4 +65,4 @@ For more information, refer to the [Get Start | Docker](https://www.docker.com/g
 
 ## Process
 
-![Screenshot 2025-02-18 at 11.00.49 in the morning.png](../my%20screenshort/Screenshot%202025-02-18%20at%2011.00.49%20in%20the%20morning.png)
+<img width="1171" alt="Screenshot 2025-02-18 at 11 00 49 in the morning" src="https://github.com/user-attachments/assets/684d6791-88da-4c46-8737-1338dbe929d4" />
